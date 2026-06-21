@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there (in Obi Wan Kenobi) 👋
 # 💫 About Me:
 🔭 I’m currently working on JEPA (Joint Embedding Predictive Architecture)<br>👯 I’m looking to collaborate on anything that's fun<br>🤝 I’m looking for help with deployment<br>🌱 I’m currently learning JEPA<br>💬 Ask me anything about Star Wars<br>⚡ Fun fact: Gandalf's Glamdring Sword is featured in the Iron Throne from GOT
 
